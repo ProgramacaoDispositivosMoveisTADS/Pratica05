@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pratica05</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inserir">INSERIR</string>
+    <string name="atualizar">ATUALIZAR</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="apagar">APAGAR</string>
+    <string name="title_activity_query_result">QueryResultActivity</string>
+</resources>
